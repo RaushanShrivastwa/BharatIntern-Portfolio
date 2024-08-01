@@ -55,8 +55,6 @@ section {
     height: auto;
 }
 .profile-picture img {
-    width: 30px; /* Set a maximum width for the profile image */
-    height: 30px;
     border-radius: 5%;
     border: 2px solid #fff;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
